@@ -1,0 +1,346 @@
+div {
+   font-family: Source Sans Pro, sans-serif;
+   color: rgb(92, 91, 91); 
+}
+
+ .brand-hearder {
+                display: flex;
+                border-bottom-width: 1px;
+                border-bottom-style: solid;
+                margin-bottom: 10px;
+                margin-top: -100px;
+                align-items: center;
+                padding: 20px;
+                border-bottom-color: rgb(226, 225, 225);
+                position: fixed;
+                z-index: 100;
+                background-color: white;
+                width: 100%;
+
+                
+            }
+            .dribbble-img {
+                width: 100px;
+                margin-right: 50px;
+            }
+            .patras {
+                color: rgba(224, 107, 107, 0.822);
+                font-size: 15px;
+            }
+            .name-company {
+                font-size: 15px;
+                font-weight: 500;
+                width: 230px;
+                color: rgb(117, 117, 117)
+                
+            }
+
+.first-background {
+    background-image: url(../image/istockphoto.jpg);
+    background-size: cover;
+    margin-top: 100px;  
+
+}
+.Brandcord-img {
+    width: 200px;
+}
+.logo-options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px ;
+    
+}
+.all-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    flex-shrink: -5;
+    width: 450px;
+    word-wrap: initial;
+
+}
+
+.all-options-names {
+    color: white;
+    font-size: 15px;
+}
+.brand-goals {
+    display: block;
+    width: 600px;
+    text-align: center;
+    font-size: 50px;
+    margin: 0 auto;
+    color: white;
+    padding-top: 150px;
+    
+}
+.brand-language {
+    text-align: center;
+    width: 450px;
+    font-size: 20px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.search-button {
+    width: 400px;
+    height: 40px;
+    border-radius: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    font-family: Source Sans Pro, sans-serif; 
+    
+    
+}
+.search-button::placeholder {
+    font-size: 15px;
+    font-weight: 500;
+}
+.search-bar {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 200px;
+}
+.all-info {
+    background-color: rgb(248, 255, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+    text-align: center;
+}
+.brand-procedure {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 80px;
+    color: #000;
+}
+.brand-language-procedure {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-size: 12px;
+}
+.other-options {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.all-icon-details {
+    text-align: center;
+    width: 250px;
+    margin: 80px;
+}
+.Creativity-icon {
+    width: 50px;
+}
+.details-topic {
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+}
+.icons-purpose {
+    font-size: 12px;
+    
+}
+.line {
+    height: 1px;
+    width: 1200px;
+    background: gainsboro;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.other-purposes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 100px;
+    text-align: left;
+}
+.brand-marketing {
+    width: 400px;
+    font-size: 15px;
+    line-height: 25px;
+}
+.veiw-button {
+    border: none;
+    background-color: rgb(88, 88, 255);
+    border-radius: 50px;
+    color: white;
+    padding: 12px 70px 12px 70px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.branded-domains {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+    color: #000;
+}
+.all-brand-advert {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    row-gap: 30px;
+    column-gap: 30px;
+    margin-top: 70px;
+    justify-content: center;
+    color: #000;
+
+    
+}
+.brand-advert {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.152);
+    
+}
+.line2 {
+    height: 1px;
+    background: rgb(236, 235, 235);
+}
+.brand-site-prize {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-weight: 600;
+    
+}
+.brand-site-name {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+.link {
+    color: rgb(11, 134, 175);
+    font-size: 12px;
+}
+.view-bar {
+    text-align: center;
+    margin: 70px;
+}
+.second-background-img {
+    background-image: url(../image/blue.jpg);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+.customers-comment {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 50px;
+}
+.brand-language-procedure2 {
+    color: white;
+    width: 400px;
+    text-align: center;
+    font-size: 12px;
+    margin: 20px auto;
+}
+.all-avatar-img {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+.avatar-img {
+    width: 30px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.reveiws {
+    text-align: center;
+    margin: 50px;
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+.all-brands {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.brand-logos2 {
+    width: 100px;
+    margin: 0 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.all-brand-info {
+    background-color: rgb(0, 0, 24);
+    background-size: cover;
+    ;
+}
+.brand-info {
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    padding: 50px;
+    font-size: 12px;
+    
+    
+}
+.Brandcord-img2 {
+    width: 150px;
+    
+
+}
+.brand-language-procedure3 {
+    width: 180px;
+}
+.first-info {
+    margin: 0 30px;
+}
+.info-head {
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    align-items: center;
+    color: white;
+}
+.social-icons {
+    width: 30px; 
+}
+.brand-language-procedure4 {
+    width: 250px;
+}
+.email-search {
+    width: 250px;
+    top: 550px;
+    height: 30px;
+    border-radius: 30px;
+    border: none;
+    padding-left: 30px;
+    box-shadow: 0 0 40px  rgba(0,0,0,0.8); 
+    margin-top: 25px;
+    font-size: 12px;
+    font-family: roboto, arial  ;
+    padding-right: 50px;
+    font-family: Source Sans Pro, sans-serif; 
+}
+
+.email-search::placeholder {
+    font-size: 12px;
+    font-family: Source Sans Pro, sans-serif; 
+}
+
+.search-email-bar {
+    position: relative;
+}
+.arrow-img {
+    width: 30px;
+}
+.arrow-pix {
+    position: absolute;
+    right: 0;
+    top: 25px;
+}
+
+
+
